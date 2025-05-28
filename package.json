@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "prettier": "3.5.3",
+    "sass": "^1.89.0",
+    "vite": "^6.3.5"
+  },
+  "name": "newprojected",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
